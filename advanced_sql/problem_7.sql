@@ -14,7 +14,7 @@ WITH remote_job_skills AS (
     INNER JOIN job_postings_fact AS job_postings ON job_postings.job_id = skills_to_job.job_id
     WHERE
         job_postings.job_work_from_home = True AND
-        job_postings.job_title_short = 'Data Analyst'
+        job_postings.job_title_short = 'Data Engineer'
     GROUP BY
         skill_id
 )

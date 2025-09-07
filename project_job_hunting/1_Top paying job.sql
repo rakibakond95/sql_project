@@ -53,7 +53,6 @@ LIMIT 10;
 * **Engtal’s Data Engineer roles dominate the high end** at \$325k, significantly above the median.
 * Senior or leadership titles (e.g., *Principal Data Engineer, Staff Data Engineer, Director, Manager*) mostly fall between \$242k–\$251k, meaning **individual contributor roles (like Data Engineer at Engtal)** can sometimes pay more than leadership positions.
 
-Would you like me to make a **visual plot (like histogram or boxplot)** of these salaries to see the distribution more clearly?
 
 Result
 ====
